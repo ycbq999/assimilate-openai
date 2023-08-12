@@ -3,7 +3,7 @@
 An extensive collection of tutorials and live streams on [OpenAi](https://openai.com/)
 
 ## Day 2:  
-
+[![Python application test with Github Actions using devcontainers](https://github.com/ycbq999/assimilate-openai/actions/workflows/main.yml/badge.svg)](https://github.com/ycbq999/assimilate-openai/actions/workflows/main.yml)
 
 ## Day 1:  Exploring all of the concepts
 
