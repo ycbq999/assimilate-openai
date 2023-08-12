@@ -32,7 +32,7 @@ def submit_question(text):
 def main(text):
     """This is the main function that you ask the OpenAI API a question to get an answer
     
-    example: python questionAnswerCLI.py "Who won the 2020 Summer Olympics
+    example: /.python questionAnswerCLI.py "Who won the 2020 Summer Olympics?"
     
     """
     print(submit_question(text))
