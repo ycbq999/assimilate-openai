@@ -1,11 +1,14 @@
+
+
 # assimilate-openai
 
 An extensive collection of tutorials and live streams on [OpenAi](https://openai.com/)
 
-## Day 3: CI/CD and Refactor
-
+## Day 3: CI/CD and Refactor and built working streamlit app that generates code 
+[![Python application test with Github Actions using devcontainers](https://github.com/ycbq999/assimilate-openai/actions/workflows/main.yml/badge.svg)](https://github.com/ycbq999/assimilate-openai/actions/workflows/main.yml)
 *[how to generate code programmatically](https://platform.openai.com/docs/guides/code/intorduction)
 
+just run streamlit run codeGenWebApp.py --server.enableCORS=fasle
 
 
 ## Day 2:  
