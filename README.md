@@ -2,6 +2,12 @@
 
 An extensive collection of tutorials and live streams on [OpenAi](https://openai.com/)
 
+## Day 3: CI/CD and Refactor
+
+*[how to generate code programmatically](https://platform.openai.com/docs/guides/code/intorduction)
+
+
+
 ## Day 2:  
 [![Python application test with Github Actions using devcontainers](https://github.com/ycbq999/assimilate-openai/actions/workflows/main.yml/badge.svg)](https://github.com/ycbq999/assimilate-openai/actions/workflows/main.yml)
 
