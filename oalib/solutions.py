@@ -34,7 +34,7 @@ def create_code(text, language="python3"):
     """This submits a comment to the OpenAI API to create code in any languag
         
         Example:
-            language = '# Python3' 
+            language = 'Python3' 
             text = f"Calculate the mean distance between an array of points"
             create_code(text, language)
         
@@ -47,7 +47,8 @@ def create_code(text, language="python3"):
     ]
     )
 
-    print(completion.choices[0].message)
+    result = completion.choices[0].message["content"]
+    print(result)
 
 
 
