@@ -50,5 +50,7 @@ def create_code(text, language="python3"):
     result = completion.choices[0].message["content"]
     print(result)
 
+    return result
+
 
 
